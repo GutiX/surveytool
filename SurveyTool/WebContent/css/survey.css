@@ -235,6 +235,8 @@ h1, h2, h3, h4, h5, button, legend {font-family: 'Ubuntu', sans-serif !important
 	color:#016FB8;
 	min-width:18em;
 	font-weight:bold;
+	font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
 }
 #form-question .checkbox label:hover span,
 #form-question .checkbox input:focus + label span{
